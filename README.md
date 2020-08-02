@@ -1,0 +1,2 @@
+# EDA-tools-in-ASIC-Design-flow
+EDA tools largely use heuristic methods to arrive at solutions for the various stages of design flow. The implementation of general algorithms and data structures becomes more interesting when mixed with the constraint requirements of the VLSI Design. This repository includes the core implementation of a few of these algorithms and methods, pertaining to the Place and Route steps.
